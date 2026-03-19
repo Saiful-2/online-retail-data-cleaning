@@ -73,11 +73,6 @@ A fully cleaned dataset ready for:
 
 ## 👨‍💻 Author
 
-Saiful Alam
-Aspiring Data Analyst | Excel | Python | SQL
-
-## 👨‍💻 Author
-
 **Saiful Alam**  
 Data Analyst (Excel | Python | SQL)  
 Focused on Data Cleaning, Analysis & Visualization  
